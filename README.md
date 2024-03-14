@@ -94,11 +94,12 @@ endmodule
 ![WhatsApp Image 2024-03-14 at 15 49 43_70675a3d](https://github.com/Yuvan291205/study-of-basic-gates/assets/138849170/cc0dfb88-7b08-41bd-ad35-07f8e64babb0)
 
 **RTL realization Output:** 
-![WhatsApp Image 2024-03-14 at 15 49 14_4de826aa](https://github.com/Yuvan291205/study-of-basic-gates/assets/138849170/5f9b59f8-f9ed-4e3b-822e-275f48f68923)
+![WhatsApp Image 2024-03-14 at 15 49 14_cd300739](https://github.com/Yuvan291205/study-of-basic-gates/assets/138849170/aa2306d0-bf8f-4a5b-9a27-13cccc0397d9)
+
 
 
 **RTL**
-![WhatsApp Image 2024-03-14 at 15 48 59_8c632d5f](https://github.com/Yuvan291205/study-of-basic-gates/assets/138849170/901a6296-3229-49d9-b588-e7cb361128ea)
+![WhatsApp Image 2024-03-14 at 15 49 14_4de826aa](https://github.com/Yuvan291205/study-of-basic-gates/assets/138849170/5f9b59f8-f9ed-4e3b-822e-275f48f68923))
 
 **Result:**
 output is verified
